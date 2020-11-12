@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "JADE",
+"productVersion": "1.2.0",
+"dataUrl": "JADE.data.unityweb",
+"wasmCodeUrl": "JADE.wasm.code.unityweb",
+"wasmFrameworkUrl": "JADE.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
